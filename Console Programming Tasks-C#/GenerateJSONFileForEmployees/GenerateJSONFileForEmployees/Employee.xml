@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <ID>QMBASEY</ID>
+    <EmployeeName>Yogesh Kumar Nethula</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>nykumar@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMBASER</ID>
+    <EmployeeName>Rahul Kumar</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>krahul@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMBASES</ID>
+    <EmployeeName>Samvid Mokirala</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>samvid@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMBASEP</ID>
+    <EmployeeName>Pavan kumar javadi</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>pavan@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMBASES</ID>
+    <EmployeeName>Sahitha sanapala</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>sahitha@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMFASEA</ID>
+    <EmployeeName>Akanksha Thota</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>akanksha@qualminds.com</Email>
+    <Department>Frontend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMFASED</ID>
+    <EmployeeName>Dharmendar Kumar</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>dharmendar@qualminds.com</Email>
+    <Department>Frontend</Department>
+  </Employee>
+  <Employee>
+    <ID>QMBASEA</ID>
+    <EmployeeName>Afrin Shiek</EmployeeName>
+    <Designation>ASE</Designation>
+    <Email>afrin@qualminds.com</Email>
+    <Department>Backend</Department>
+  </Employee>
+</Employees>

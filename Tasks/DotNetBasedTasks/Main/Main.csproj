@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ArraysAndLinq\ArraysAndLinq.csproj" />
+    <ProjectReference Include="..\Array\Arrays.csproj" />
+    <ProjectReference Include="..\AsyncProgamming\AsyncProgamming.csproj" />
+    <ProjectReference Include="..\Building_Blocks\Building_Blocks.csproj" />
+    <ProjectReference Include="..\Compressor\Compressor.csproj" />
+    <ProjectReference Include="..\ConcurrentApplication\ConcurrentApplication.csproj" />
+    <ProjectReference Include="..\DecimalToBinaryConversion\DecimalToBinaryConversion.csproj" />
+    <ProjectReference Include="..\LinqOnEmployeeList\LinqOnEmployeeList.csproj" />
+    <ProjectReference Include="..\Method\Method.csproj" />
+    <ProjectReference Include="C:\Users\QualMinds\Desktop\temp\DotNetBasedTasks\Recursion\Recursion.csproj" />
+  </ItemGroup>
+
+</Project>

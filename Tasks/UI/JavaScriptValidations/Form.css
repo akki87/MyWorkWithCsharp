@@ -1,0 +1,196 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-image: linear-gradient(rgba(0,4,0,0.5),rgba(0,0,0,0.9));
+    
+}
+.form_container{
+    background-color: white;
+}
+header{
+    background-color:#40608E;
+    height:90px;
+    color:white;
+    position:relative;
+    align-content: center;
+}
+header > *:first-child{
+    font-size:39px;
+    /* margin:0px 0px 4px 32%; */
+}
+header > *{
+    font-weight:100;
+    font-size: 17px;
+    text-align:center;
+}
+form{
+    margin:0px 10px 0px 0px;
+}
+.input_part,select{
+    width:90%;
+    height:34px;
+    align-items: center;
+    position:relative;
+    margin:20px 0px 0px 5%;
+    padding-left:10px;
+    /* text-align: center; */
+    /* outline: none; */
+    
+}
+.input_part:focus{
+    box-shadow: 2px 4px 10px #888888;
+    outline: none;
+    border: 0;
+    
+}
+.input_part:focus{
+    outline:none;
+}
+.fileinput{
+    height:40px;
+    width:90%;
+    border: 0.1em solid grey;
+    border-style: dotted;
+    margin:20px 0px 0px 5%
+}
+
+.row{
+    margin:16px 0px 0px 21px;
+}
+small{
+    color:grey;
+    position:relative;
+    margin:20px 0px 0px 5%;
+    font-size:16px;;
+}
+label > span{
+    color:red;
+}
+button{
+    width:80px;
+    height:30px;
+    margin:25%;
+    margin: 35px 0px 0px 145px;
+    background-color: #40608E;
+    
+}
+
+  .file-upload{
+	height:61px;
+	width:90%;
+	margin:40px auto;
+	/* overflow:hidden; */
+	position:relative;
+    border:0.5px solid grey;
+    border-style:dashed;
+    background-color: white;
+}
+.file-upload input{
+	position:absolute;
+	height:41px;
+	width:41px;
+	background:transparent;
+	opacity:0;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=0);  
+    float:right;
+    float:right;
+    margin: 11px 0px 0px 177px;
+}
+.file-upload img{
+	height:30px;
+	width:30px;
+	margin:15px 15px;
+    float:right;
+    
+}
+.file-upload p{
+    margin:15px 15px;
+    float:left;
+
+}
+.error_message{
+    display:none;
+    font-size:13px;
+    color:red;
+    margin-left:30px;
+}
+#mail_field{
+    display:none;
+}
+#phone_field{
+    display:none;
+}
+@media  (min-width:768px) {
+    .input_part,select{
+        width:90%;
+        height:34px;
+        align-items: center;
+        position:relative;
+        /* margin:20px 0px 0px 5% */
+    }
+    .fields{
+        display:flex;
+        width:100%;
+    }
+    .fields > div:first-child{
+        width:20%;
+    }
+    .fields  div:nth-child(2){
+        width:70%;
+        float:right;
+    }
+    button{
+        width:80px;
+        height:30px;
+        margin: 35px 0px 40px 45%;
+        background-color: #40608E;
+        
+    }
+    .Additional_address  input,select{
+        width:84%;
+        margin: 26px 0px 0px 29px;
+        display:inline-block
+    }
+    .Additional_address{
+        display:flex;
+        
+    }
+    .Address > div:nth-child(2){
+        display:flex
+    }
+    .file-upload input{
+        margin: 11px 0px 0px 74%;
+    }
+    .Additional_address div{
+        width:50%;
+    }
+    .text{
+        margin-left:35px;
+    }
+    
+}
+@media screen and (min-width:1000px) {
+   
+    .form_container{
+        max-width: 760px;
+        margin:auto;
+        background-color: white;
+    }
+    .file-upload input{
+        margin: 11px 0px 0px 68%;
+    }
+    .text{
+        width:100%;
+        margin-left: 32px;
+    }
+    .Additional_address input,select{
+        width: 84%;
+    }
+    .Additional_address div{
+        width:50%;
+    }
+
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "EmployeeId": "QMBASEY",
+        "EmployeeName": "Yogesh Kumar Nethula",
+        "Designation": "ASE",
+        "Email": "nykumar@qualminds.com",
+        "Department": "Backend"
+    },
+    {
+        "EmployeeId": "QMBASER",
+        "EmployeeName": "Rahul Kumar",
+        "Designation": "ASE",
+        "Email": "krahul@qualminds.com",
+        "Department": "Backend"
+    },
+    {
+        "EmployeeId": "QMBASES",
+        "EmployeeName": "Samvid Mokirala",
+        "Designation": "ASE",
+        "Email": "samvid@qualminds.com",
+        "Department": "Backend"
+    },
+    {
+        "EmployeeId": "QMBASEP",
+        "EmployeeName": "Pavan kumar javadi",
+        "Designation": "ASE",
+        "Email": "pavan@qualminds.com",
+        "Department": "Backend"
+    },
+    {
+        "EmployeeId": "QMBASES",
+        "EmployeeName": "Sahitha sanapala",
+        "Designation": "ASE",
+        "Email": "sahitha@qualminds.com",
+        "Department": "Backend"
+    },
+    {
+        "EmployeeId": "QMFASEA",
+        "EmployeeName": "Akanksha Thota",
+        "Designation": "ASE",
+        "Email": "akanksha@qualminds.com",
+        "Department": "Frontend"
+    },
+    {
+        "EmployeeId": "QMFASED",
+        "EmployeeName": "Dharmendar Kumar",
+        "Designation": "ASE",
+        "Email": "dharmendar@qualminds.com",
+        "Department": "Frontend"
+    },
+    {
+        "EmployeeId": "QMBASEA",
+        "EmployeeName": "Afrin Shiek",
+        "Designation": "ASE",
+        "Email": "afrin@qualminds.com",
+        "Department": "Backend"
+    }
+]

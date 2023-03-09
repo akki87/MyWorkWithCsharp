@@ -1,0 +1,16 @@
+17-10-2022 15:55:12
+Input string was not in a correct format.
+17-10-2022 16:00:35
+17-10-2022 16:03:04
+Input string was not in a correct format.
+17-10-2022 16:06:56
+17-10-2022 16:10:25 Input string was not in a correct format.
+18-10-2022 09:46:45 Input string was not in a correct format.
+18-10-2022 09:46:48 Input string was not in a correct format.
+18-10-2022 09:46:49 Input string was not in a correct format.
+18-10-2022 09:46:51 Input string was not in a correct format.
+18-10-2022 10:06:44 Input string was not in a correct format.
+18-10-2022 10:10:03 Input string was not in a correct format.
+18-10-2022 10:30:44 Input string was not in a correct format.
+18-10-2022 10:34:11 DivideByZeroException
+18-10-2022 10:34:22 Input string was not in a correct format.
